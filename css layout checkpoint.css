@@ -1,0 +1,119 @@
+
+header{
+    display: flex;
+justify-content: space-between;
+position: sticky;
+border-style: hidden;}
+
+.top{margin: 80px;
+margin-top: 0px;}
+
+a{margin-right: 30px;
+text-decoration: none;
+color: grey;
+
+}
+
+nav,a{
+    display: flex;
+margin-top: 10px;
+margin-left: 30px;
+position:sticky}
+
+a:hover{
+    color:#00b39b;
+}
+
+
+div.Introduction-logo,h1{display: flex;
+justify-content: center;
+align-items: center;
+margin:80px ;
+}
+
+h1{color: #00b39b;
+font-size: 30px;}
+
+.aboutus{margin: 80px;
+}
+
+
+.box-of-the-introduction{display: flex;
+justify-content: space-between;}
+
+.paragraph{font-size: 25px;
+margin: 80px;
+margin-right:5px ;
+margin-top: 4px;}
+
+
+div.flexbox-container{
+display: flex;
+margin: 80px;
+
+}
+div.flexbox-item{
+    margin: 45px;
+    margin-top: 0px;
+    margin-right: 5px;
+    justify-content: center;
+    width: 500px;
+height: 300px;
+border-radius: 15px;
+border-style: solid;
+color: #333;}
+
+
+
+div.flexbox-item1{margin-right: 0px;
+    background-color: #00b39b;
+    border: #00b39b;
+}
+div.flexbox-item2{margin-right:0px;
+   border-color :#3d83df;
+   background-color:#3d83df;
+}
+div.flexbox-item3{margin-right: 0px;
+    border-color: #333;
+    background-color: #333;
+}
+
+div.flexbox-item,p{
+    font-size: larger;
+}
+
+p.information{ font-size: 30px;
+color: #fff;}
+
+div>h2{color: #fff;
+}
+
+.preface{display: flex;
+justify-content: space-between;
+margin: 80px;}
+
+img.logo{ 
+    width: 150px;
+}
+
+section,p.message{ font-size: 65px;
+;}
+
+.message{color: #00b39b;}
+
+section.more-about-us{display: flex;}
+
+div.first-conclusion,h2{font-size: smaller;
+    margin: 80px;
+
+}
+p.first-conclusion{
+    font-size: 35px;
+}
+ div.pictures{width: 100%;
+display:block;
+margin: 0%;
+height: 270px;
+margin:80px;}
+
+
